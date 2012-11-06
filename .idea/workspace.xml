@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea067d9c-a495-439a-9533-47bfda5e8f9e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/coin_change_spec.clj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/coin_change.clj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/coin_change.clj" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/coin_change_spec.clj" afterPath="$PROJECT_DIR$/spec/coin_change_spec.clj" />
     </list>
     <ignored path="coin_change_kata.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,16 +74,7 @@
       <file leaf-file-name="coin_change_spec.clj" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/coin_change_spec.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="4" selection-start="88" selection-end="88" vertical-scroll-proportion="0.08928572">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="coin_change.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coin_change.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+            <state line="34" column="3" selection-start="835" selection-end="835" vertical-scroll-proportion="0.60714287">
               <folding />
             </state>
           </provider>
@@ -202,20 +192,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coin_change_kata" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coin_changer_kata" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="spec" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -239,6 +215,21 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RunManager" selected="Application.main">
+    <configuration default="true" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="" />
+      <setting name="repl" value="false" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+        <option name="RakeTask" enabled="false" />
+      </method>
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -364,7 +355,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="2560" height="1414" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -454,16 +445,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coin_change.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spec/coin_change_spec.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="4" selection-start="88" selection-end="88" vertical-scroll-proportion="0.08928572">
+        <state line="34" column="3" selection-start="835" selection-end="835" vertical-scroll-proportion="0.60714287">
           <folding />
         </state>
       </provider>
